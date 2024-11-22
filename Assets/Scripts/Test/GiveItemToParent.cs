@@ -10,8 +10,8 @@ public class GiveItemToParent : MonoBehaviour
         {
             if(transform.parent.TryGetComponent<EntityInventoryTest>(out EntityInventoryTest entityInventory))
             {
-                InventoryItemTest inventoryItem = ItemList.instance.GetItemByID(other.GetComponent<ItemTest>().itemId);
-                entityInventory.AddItem(inventoryItem);
+                // InventoryItemTest inventoryItem = ItemList.instance.GetItemByID(other.GetComponent<ItemTest>().itemId);
+                // entityInventory.AddItem(inventoryItem);
                 Destroy(other.gameObject);
             }
         }
