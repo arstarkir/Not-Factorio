@@ -18,6 +18,8 @@ public class EntityInventoryTest : MonoBehaviour
                     return false;
             }
         }
+
+        inventoryItems.Add(inventoryItem);
         return true;
     }
 }

@@ -13,14 +13,14 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638678235182261351
-    m_Hash: 561150642
+      ticks: 638678319131287902
+    m_Hash: 4260635170
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Git/Not-Factorio/Packages
-m_EditorVersion: 2022.3.38f1 (c5d5a7410213)
+m_EditorVersion: 2022.3.32f1 (c8300dc0a3fa)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.5.2
   testable: 0
@@ -120,11 +120,12 @@ m_ResolvedPackages:
     - 2.5.1
     - 2.5.2
     compatible:
+    - 2.3.1
     - 2.4.3
     - 2.4.4
     - 2.5.1
     - 2.5.2
-    recommended: 2.4.4
+    recommended: 2.3.1
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -162,7 +163,7 @@ m_ResolvedPackages:
     revision: c402e6396d3ea20ecb2d59eac908e7e0a30cd7e6
     path: 
   unityLifecycle:
-    version: 2.4.3
+    version: 2.3.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -225,7 +226,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.ide.rider
-    version: 3.0.31
+    version: 3.0.28
   - name: com.unity.ide.vscode
     version: 1.2.5
   - name: com.unity.editorcoroutines
@@ -2827,12 +2828,12 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-- packageId: com.unity.ide.rider@3.0.31
+- packageId: com.unity.ide.rider@3.0.28
   testable: 0
   isDirectDependency: 0
-  version: 3.0.31
+  version: 3.0.28
   source: 1
-  resolvedPath: C:\Git\Not-Factorio\Library\PackageCache\com.unity.ide.rider@3.0.31
+  resolvedPath: C:\Git\Not-Factorio\Library\PackageCache\com.unity.ide.rider@3.0.28
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -2894,6 +2895,7 @@ m_ResolvedPackages:
     - 3.0.31
     - 3.0.34
     compatible:
+    - 3.0.28
     - 3.0.31
     - 3.0.34
     recommended: 3.0.34
@@ -2915,16 +2917,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638548308080000000
+  datePublishedTicks: 638447139880000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: ccd778a2275ff09f1a83bc924cfb2fb4d5b63566
+    revision: f4880c72477e9bbd7321c0dbda4428fa10d916df
     path: 
   unityLifecycle:
-    version: 3.0.31
+    version: 3.0.28
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -3522,4 +3524,4 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-m_BuiltInPackagesHash: 324aff258fdd25565a2e4ced0cf4d34560d759b7
+m_BuiltInPackagesHash: 5ad3986823ff1dda12bea54c6901f036d3719e0e

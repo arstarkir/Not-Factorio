@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Git\\Not-Factorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C12152CF-7BB4-EAB1-2B86-19FEF675A917}|Assembly-CSharp.csproj|c:\\git\\not-factorio\\assets\\scripts\\test\\giveitemtoparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C12152CF-7BB4-EAB1-2B86-19FEF675A917}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\giveitemtoparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C12152CF-7BB4-EAB1-2B86-19FEF675A917}|Assembly-CSharp.csproj|C:\\Git\\Not-Factorio\\assets\\scripts\\test\\inventoryitemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C12152CF-7BB4-EAB1-2B86-19FEF675A917}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\inventoryitemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C12152CF-7BB4-EAB1-2B86-19FEF675A917}|Assembly-CSharp.csproj|c:\\git\\not-factorio\\assets\\scripts\\test\\entityinventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C12152CF-7BB4-EAB1-2B86-19FEF675A917}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\entityinventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GiveItemToParent.cs",
-              "DocumentMoniker": "C:\\Git\\Not-Factorio\\Assets\\Scripts\\Test\\GiveItemToParent.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\GiveItemToParent.cs",
-              "ToolTip": "C:\\Git\\Not-Factorio\\Assets\\Scripts\\Test\\GiveItemToParent.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Test\\GiveItemToParent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:52:34.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventoryItemTest.cs",
-              "DocumentMoniker": "C:\\Git\\Not-Factorio\\Assets\\Scripts\\Test\\InventoryItemTest.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\InventoryItemTest.cs",
-              "ToolTip": "C:\\Git\\Not-Factorio\\Assets\\Scripts\\Test\\InventoryItemTest.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Test\\InventoryItemTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:43:42.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EntityInventoryTest.cs",
               "DocumentMoniker": "C:\\Git\\Not-Factorio\\Assets\\Scripts\\Test\\EntityInventoryTest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\EntityInventoryTest.cs",
               "ToolTip": "C:\\Git\\Not-Factorio\\Assets\\Scripts\\Test\\EntityInventoryTest.cs",
               "RelativeToolTip": "Assets\\Scripts\\Test\\EntityInventoryTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:43:06.825Z",
+              "WhenOpened": "2024-11-22T00:26:47.262Z",
               "EditorCaption": ""
             }
           ]
